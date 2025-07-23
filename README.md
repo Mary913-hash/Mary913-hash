@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm currently pursuing a full-stack software engineering program  
+
 - 🔧 I love building responsive web applications with **React**, **HTML/CSS**, and **JavaScript**  
 - 🌍 Based in Kenya and dreaming globally  
 - 💬 Ask me about **frontend**, **Flask**, or how I transitioned from Unreal Engine to web dev  
@@ -29,9 +29,9 @@
 
 ### 📫 Let's Connect
 
-- ✉️ Email: marywanjiru@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/marywanjiru)  
-- 📝 [My Portfolio](https://your-portfolio-link.com)
+- ✉️ Email: maryviwanji@gmail.com  
+- 💼 [LinkedIn]https://www.linkedin.com/in/mary-wanjiru-a766b434b 
+- 📝 [My Portfolio]https://mary-s-portfolio-five.vercel.app/#about
 
 ---
 
